@@ -1,2 +1,5 @@
 Simple landing page for the beautiful city of Shantiniketan.
-site author: Swastik Nath
+
+Website created while learning CSS Basics on Team TreeHouse. (Teacher: Guil Hernandez)
+
+This site is created By: Swastik Nath
